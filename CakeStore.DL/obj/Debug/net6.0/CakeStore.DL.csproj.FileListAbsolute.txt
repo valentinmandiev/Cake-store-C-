@@ -1,0 +1,15 @@
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\bin\Debug\net6.0\CakeStore.DL.deps.json
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\bin\Debug\net6.0\CakeStore.DL.dll
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\bin\Debug\net6.0\CakeStore.DL.pdb
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\bin\Debug\net6.0\CakeStore.Models.dll
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\bin\Debug\net6.0\CakeStore.Models.pdb
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\CakeStore.DL.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\CakeStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\CakeStore.DL.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\CakeStore.DL.AssemblyInfo.cs
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\CakeStore.DL.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\CakeStore.DL.csproj.CopyComplete
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\CakeStore.DL.dll
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\refint\CakeStore.DL.dll
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\CakeStore.DL.pdb
+C:\Users\valen\OneDrive\ПУ\C#\CakeStore.DL\obj\Debug\net6.0\ref\CakeStore.DL.dll
